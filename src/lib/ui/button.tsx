@@ -16,8 +16,7 @@ const buttonVariants = cva(
         secondary: 'bg-secondary text-secondary-foreground shadow-sm hover:bg-secondary/80',
         ghost: 'hover:bg-accent hover:text-accent-foreground',
         link: 'text-primary underline-offset-4 hover:underline',
-        hoverColor: 'bg-weg-2 text-white hover:bg-gray-700',  //Adicionei uma nova variante nesta parte do código 12/06. 
-
+        hoverColor: 'bg-weg-5 text-white hover:bg-weg-2',   
       },
       size: {
         default: 'h-9 px-4 py-2',
